@@ -10,7 +10,7 @@
 
 [リリース一覧](https://github.com/AzazeliusZ/Sumire-Closed-Beta/releases) · [初回起動ガイド](START-HERE-JA.md) · [リリースノート](RELEASE_NOTES_JA.md)
 
-現在、Windows用ZIPと日本語PDFの配布準備中です。
+[Windows x64版をダウンロード（ZIP）](https://github.com/AzazeliusZ/Sumire-Closed-Beta/releases/download/v0.6.8.1-beta.1/Sumire_0.6.8.1_Closed_Beta_Portable.zip) · [日本語ガイド（PDF）](https://github.com/AzazeliusZ/Sumire-Closed-Beta/releases/download/v0.6.8.1-beta.1/Sumire_0.6.8.1_Closed_Beta_Guide_JA.pdf)
 
 </div>
 
@@ -64,7 +64,7 @@
 
 ## ダウンロードと初回起動
 
-配布開始後、[Releasesページ](https://github.com/AzazeliusZ/Sumire-Closed-Beta/releases)のAssetsから `Sumire_0.6.8.1_Closed_Beta_Portable.zip` と日本語PDFガイドを取得してください。GitHubが自動生成するSource codeはアプリ本体ではありません。
+上のリンクから Windows 用 ZIP と日本語 PDF ガイドを取得してください。GitHubが自動生成するSource codeはアプリ本体ではありません。
 
 1. ZIPをすべて展開してください。EXEだけを取り出さないでください。
 2. 展開先の `Sumire-0.6.8.1-Closed-Beta/Windows/MyLittleAICompanion.exe` を起動します。.NETランタイムは同梱されています。
